@@ -1,0 +1,2 @@
+# DataStructurePractice
+For newerComers practice.
